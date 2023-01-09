@@ -1,0 +1,40 @@
+h2{
+    color: gray;
+    font-size: 16px;
+}
+p{
+    color: darkviolet;
+    
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+h1{
+    color: rgba(198, 13, 13, 0.712);
+    text-decoration: underline;
+}
+body{
+    margin: 0;
+}
+.juego {
+    display: inline
+
+    
+}
+.carousel-inner {
+    max-height: 39rem;
+}
+
+.titulo-wrap {
+    width: 75%;
+    margin: auto;
+}
+
+.color-light {
+    color: aliceblue;
+}
+
+.Link-Pag-Principal{
+    color: rgba(198, 13, 13, 0.712);
+}
